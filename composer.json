@@ -1,5 +1,5 @@
 {
-    "name": "newtown/itabs_invoice",
+    "name": "newtown/itabs-invoice",
     "license": "OSL-3.0",
     "type": "magento-module",
     "description": "Provides the payment method Invoice",
